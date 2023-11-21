@@ -1,12 +1,12 @@
 # patterns
-## Creational patterns 
+1. Creational patterns 
 _These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code._
 
-    * Singleton
-    * Builder
-    * Factory Method
-    * Abstract Factory
-    * Prototype
+    + Singleton
+    + Builder
+    + Factory Method
+    + Abstract Factory
+    + Prototype
 
 ## Structural patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
