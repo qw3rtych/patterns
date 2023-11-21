@@ -8,7 +8,7 @@ _These patterns provide various object creation mechanisms, which increase flexi
     + Abstract Factory
     + Prototype
 
-## Structural patterns
+2. Structural patterns
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 ## Behavioral patterns
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
