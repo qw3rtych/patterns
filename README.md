@@ -1,6 +1,6 @@
 # patterns
-## Creational patterns
-//These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+## Creational patterns 
+_These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code._
 
     * Singleton
     * Builder
